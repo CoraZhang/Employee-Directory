@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project creates a employee directory with React. It will require to break up the application's UI into components, manage component state, and respond to user events.
+The project creates an employee directory with React. It will require to breaking up the application's UI into components, manage component state, and respond to user events.
 
 ## User Story
 
